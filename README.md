@@ -16,13 +16,15 @@ https://github.com/AliBee87/MSSE661MongoAPI
  You'll need to make sure you have the following packages installed: 
  
    ```
-    fortawesome/fontawesome-svg-core
+    @fortawesome/fontawesome-svg-core
    
-    fortawesome/free-solid-svg-icons
+    @fortawesome/free-solid-svg-icons
     
-    fortawesome/react-fontawesome
+    @fortawesome/react-fontawesome
     
     axios
    ```
+  
+  To install, enter `npm i` and the package in your terminal.
    
-   Then, to run, go to the file location, then enter `npm start` in your terminal. 
+  Then, to run, go to the file location, then enter `npm start` in your terminal. Thanks for checking my page out! 
