@@ -5,8 +5,10 @@ https://github.com/AliBee87/MSSE661MongoAPI
   - In this file, go to config -> allowedOrigins
   - On line 5, input 'http://localhost:3000' 
   - Save document
+  - Then you will have to enter `npm run dev` to get the server going. 
 
 ## To Run Reactive-Salmon
+
  In your terminal, input  
  ```
   npx create-react-app salmonreact
