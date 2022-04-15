@@ -2,9 +2,6 @@ This is a simple registration form for my project, "How Do You Like Your Salmon?
 ## Getting Started 
   - You will first have to make sure you have my other repository installed. Repository and instructions are here: 
 https://github.com/AliBee87/MSSE661MongoAPI
-  - In this file, go to config -> allowedOrigins
-  - On line 5, input 'http://localhost:3000' 
-  - Save document
   - Then you will have to enter `npm run dev` to get the server going. 
 
 ## To Run Reactive-Salmon
